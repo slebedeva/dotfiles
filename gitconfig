@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = slebedeva@gmail.com
+	name = Svetlana Lebedeva
